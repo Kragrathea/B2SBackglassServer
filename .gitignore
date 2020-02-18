@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/b2sbackglassserverexe/b2sbackglassserverexe/obj/Debug
+/b2sbackglassserverexe/.vs/B2SBackglassServerEXE/v15/Server/sqlite3
+/b2sbackglassserverexe/.vs/B2SBackglassServerEXE/v15
